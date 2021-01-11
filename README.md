@@ -45,7 +45,7 @@ Currently I am the web domain lead of DSC Aiktc for 2020-21 and I am aiming to b
 
 This project is my only project which i can say is close to industry ready product
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Floran-Github/Project-code">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Floran-Github&repo=Project-code&theme=chartreuse-dark&show_owner=true" />
 </a>  
