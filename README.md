@@ -15,18 +15,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>
+Hi there ✌ I am Khan Zaki, a passionate self-taught full stack web developer, desktop application developer & a mobile app developer from India.<br>
+Currently I am the web domain lead of DSC Aiktc for 2020-21 and I am aiming to become the next dsc lead of my college
+</p>
+
+<ul>
+<li> 👍 I'm Currently learning the Express and React framework for web development 
+<li> 😉 I'm also working on a desktop application written in python library Eel 
+  
+⚡ Fun fact: I am Itachi Uchiha and kaneki ken fan
+<br>
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
+<br>
+
 <a href="https://github.com/bhagwanZaki/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhagwanZaki&show_icons=true&include_all_commits=true&theme=chartreuse-dark" alt="bhagwanZaki's github stats" />
 </a>
+
 <br>
+
 <a href="https://github.com/bhagwanZaki/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagwanZaki&theme=chartreuse-dark&langs_count=8" />
 </a>
+
 <br>
+
+This project is my only project which i can say is close to industry ready product
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Floran-Github&repo=Project-code&theme=chartreuse-dark&show_owner=true" />
 </a>  
 <br>
+For more info or to get contact you can check out <a href="https://zakiportfolio.netlify.app/">my portfolio</a>
 
