@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>
+
 Hi there ✌ I am Khan Zaki, a passionate self-taught full stack web developer, desktop application developer & a mobile app developer from India.<br>
 Currently I am the web domain lead of DSC Aiktc for 2020-21 and I am aiming to become the next dsc lead of my college
-</p>
+
 
 <ul>
 <li> 👍 I'm Currently learning the Express and React framework for web development 
