@@ -32,16 +32,14 @@ Currently I am the web domain lead of DSC Aiktc for 2020-21 and I am aiming to b
 
 <br>
 
-<a href="https://github.com/bhagwanZaki/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhagwanZaki&show_icons=true&include_all_commits=true&theme=chartreuse-dark" alt="bhagwanZaki's github stats" />
-</a>
+
 
 <br>
 
-<a href="https://github.com/bhagwanZaki/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagwanZaki&theme=chartreuse-dark&langs_count=8" />
-</a>
+
 
 <br>
 
