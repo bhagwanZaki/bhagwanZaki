@@ -26,9 +26,7 @@ Currently I am the web domain lead of DSC Aiktc for 2020-21 and I am aiming to b
 <li> 😉 I'm also working on a desktop application written in python library Eel 
   
 ⚡ Fun fact: I am Itachi Uchiha and kaneki ken fan
-<br>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 <br>
 
@@ -43,7 +41,7 @@ Currently I am the web domain lead of DSC Aiktc for 2020-21 and I am aiming to b
 
 <br>
 
-This project is my only project which i can say is close to industry ready product
+So my team floran created the floran-classroom as our mini prject, and we are really proud of it,
 
 <a href="https://github.com/Floran-Github/Project-code">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
