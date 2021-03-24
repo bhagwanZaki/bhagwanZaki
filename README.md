@@ -27,7 +27,14 @@ Currently I am the web domain lead of DSC Aiktc for 2020-21 and I am aiming to b
   <br><br>
 ⚡ Fun fact: I am Itachi Uchiha and kaneki ken fan
 
+<br>
 
+So my team floran created the floran-classroom as our mini prject, and we are really proud of it,
+
+<a href="https://github.com/Floran-Github/Project-code">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Floran-Github&repo=Project-code&theme=chartreuse-dark&show_owner=true" />
+</a>  
 <br>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhagwanZaki&show_icons=true&include_all_commits=true&theme=chartreuse-dark" alt="bhagwanZaki's github stats" />
