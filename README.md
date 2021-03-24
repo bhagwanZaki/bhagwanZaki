@@ -23,11 +23,7 @@ Currently I am the web domain lead of DSC Aiktc for 2020-21 and I am aiming to b
 
 <ul>
 <li> 👍 I'm Currently learning the django rest API configuration with fulter and react
-<li> 😉 I'm also working on a django website called CoderHi
-  <li>    <a href="https://github.com/Floran-Github/Project-code">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Floran-Github&repo=CoderHifi-code&theme=chartreuse-dark&show_owner=true" />
-</a> 
+
   <br><br>
 ⚡ Fun fact: I am Itachi Uchiha and kaneki ken fan
 
