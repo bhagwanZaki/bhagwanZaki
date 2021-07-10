@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/red_eye_zak" target="blank"><img src="https://img.shields.io/twitter/follow/red_eye_zak?logo=twitter&style=for-the-badge" alt="red_eye_zak" /></a> </p>
 
-- 🔭 I’m currently working on [CoderHi](https://github.com/bhagwanZaki/Floran-coderhi)
+- 🔭 I’m currently working on [Floran POS](https://github.com/Floran-Github/Floran_POS)
 
 - 🌱 I’m currently learning **Django-Flutter integration**
 
