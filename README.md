@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on [Floran POS](https://github.com/Floran-Github/Floran_POS)
 
-- 🌱 I’m currently learning **Blockchain & AR-VR**
+- 🌱 I’m currently learning **React Native, Blockchain & AR-VR**
 
 - 👨‍💻 All of my projects are available at [https://zakiportfolio.netlify.app/](https://zakiportfolio.netlify.app/)
 
-- 💬 Ask me about **Django,PyQt5**
+- 💬 Ask me about **Django, Django Rest Framework**
 
 - 📫 How to reach me **zaki.tarveen@gmail.com**
 
