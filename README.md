@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Floran POS](https://github.com/Floran-Github/Floran_POS)
 
-- 🌱 I’m currently learning **Django-Flutter integration**
+- 🌱 I’m currently learning **Blockchain & AR-VR**
 
 - 👨‍💻 All of my projects are available at [https://zakiportfolio.netlify.app/](https://zakiportfolio.netlify.app/)
 
