@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Khan Zaki Ur Rahman</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently working on [Floran POS](https://github.com/Floran-Github/Floran_POS)
-
-- 🌱 I’m currently learning **React Native, Blockchain & AR-VR**
+- 🌱 I’m currently learning **ML & AR-VR Development**
 
 - 👨‍💻 All of my projects are available at [https://zakiportfolio.netlify.app/](https://zakiportfolio.netlify.app/)
 
