@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://zakiportfolio.netlify.app/](https://zakiportfolio.netlify.app/)
 
-- 💬 Ask me about **Django, Django Rest Framework, FastAPI, Next.js, Vue.js and Flutter**
+- 💬 Ask me about **Golang, Django, Django Rest Framework, FastAPI, Next.js, Vue.js and Flutter**
 
 - 📫 How to reach me **zaki.tarveen@gmail.com**
 
